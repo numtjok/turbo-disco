@@ -1,0 +1,16 @@
+turbo-disco
+Jack
+Readme:
+Bare så du ved det til en anden gang, så skal man ALDRIG skrive koder el. lign. i sin readme. Derudover så er din readme fin, og beskriver det der skal til for at få projektet til at virke. Dog kan du godt præcicere hvilke dokumenter du referer til når du skriver "dokumenterne", da det er lidt tvetydigt.
+
+GIT:
+Jeg mangler at kunne se processen med at bruge GIT. 3 commits viser mig desværre ikke ret meget om at du evner at bruge GIT.
+
+Kommentering:
+Jeg kunne godt tænke mig at der er lidt mere kommentering. Hvis det hjælper, så tænk på at kommentering skal gøre kode mere overskuelig. Føler jeg dine kommentarer kunne gøre bedre. Du har nogle fine kommentarer dog, et eksempel er Register_User.php linje 54.
+
+Flowchart:
+Dine flowcharts er fine, ingen kommentarer.
+
+Overall:
+7. Det gør ingenting at du har brugt et tidligere projekt. Helt Okay. Problemet er at det ikke viser særligt godt hvordan din git proces har været, og det er desværre en af målepindene i dette fag. Derudover føler jeg at du godt kunne have haft mere kommentering. Dine flowcharts og din readme er fin. Så vi ender på et 7 tal.
